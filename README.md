@@ -1,4 +1,4 @@
-Compact Representations of Spatial Hierarchical Structures with Support for Topological Queries
+Space-efficient data structures for the inference of subsumption and disjointness relations
 =========
 
 Requirements
